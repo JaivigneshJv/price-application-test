@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from "react";
+import {fromCognitoIdentityPool} from "@aws-sdk/credential-providers";
 import {S3Client, GetObjectCommand} from "@aws-sdk/client-s3";
 import {getSignedUrl} from "@aws-sdk/s3-request-presigner";
 import {
@@ -18,6 +19,10 @@ const BUCKET_NAME = "jv-web-server-product-data";
 
 const s3 = new S3Client({
   region: REGION,
+  credentials: fromCognitoIdentityPool({
+    clientConfig: {region: "us-east-1"},
+    identityPoolId: "us-east-1:ecc92a7f-b285-4f29-8e5f-31a3a46516f8",
+  }),
 });
 
 function ProductCard({searchQuery}) {
