@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product_name": "apple-macbook-air-m1",
+      "sites": [
+        {
+          "website": "Flipkart",
+          "url": "https://www.flipkart.com/apple-2020-macbook-air-m1-8-gb-256-gb-ssd-mac-os-big-sur-mgn93hn-a/p/itm6b02c9a9d9d28?pid=COMFXEKMXWUMGPHW&lid=LSTCOMFXEKMXWUMGPHWKF7Y8O&marketplace=FLIPKART&q=m1+air&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=609e75cf-2eef-4a17-9834-98a8d2bcd514.COMFXEKMXWUMGPHW.SEARCH&ppt=sp&ppn=sp&ssid=5n52fr37t968fw1s1729246360700&qH=b33c6dc28b158e1c",
+          "price": "99999",
+          "image": "images/apple-macbook-air-m1/flipkart.jpeg"
+        },
+        {
+          "website": "Amazon",
+          "url": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB/ref=sr_1_1?crid=1VPTWAGJMENPK&dib=eyJ2IjoiMSJ9.lIRxEw1BIVqCOYnjYe9Unc6ptgvkEfYdiQvcO_1KQzW4uvovh3JEu8XqbmR19nzNlVrHiYglt9K62G2s795KiyazyWlBoC1_grhH6NnJAx68wOynTSnIKy1rldeVUU02HHITZ1DX9h_vJ8Plg63rekcVwWcgHY58byYI68EOld4wkjRoiWlHD3gg6UfrPHgNOysB8o-hDVmxmrIXNPZXB8kFIOC9Kux7VraQRX09mYM.N6-l67QX1AqEeiDF5UbBgo-EjN7soPR0u0N3eR007MA&dib_tag=se&keywords=m1+air&qid=1729244713&sprefix=m1+ai%2Caps%2C228&sr=8-1",
+          "price": "99991",
+          "image": "images/apple-macbook-air-m1/amazon.jpeg"
+        }
+      ],
+      "lowest_price_site": "Flipkart"
+    },
+    {
+      "product_name": "apple-iphone-14",
+      "sites": [
+        {
+          "website": "Flipkart",
+          "url": "https://www.flipkart.com/apple-2020-macbook-air-m1-8-gb-256-gb-ssd-mac-os-big-sur-mgn93hn-a/p/itm6b02c9a9d9d28?pid=COMFXEKMXWUMGPHW&lid=LSTCOMFXEKMXWUMGPHWKF7Y8O&marketplace=FLIPKART&q=m1+air&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=609e75cf-2eef-4a17-9834-98a8d2bcd514.COMFXEKMXWUMGPHW.SEARCH&ppt=sp&ppn=sp&ssid=5n52fr37t968fw1s1729246360700&qH=b33c6dc28b158e1c",
+          "price": "9999",
+          "image": "images/apple-iphone-14/flipkart.jpeg"
+        },
+        {
+          "website": "Amazon",
+          "url": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5W4NNB/ref=sr_1_1?crid=1VPTWAGJMENPK&dib=eyJ2IjoiMSJ9.lIRxEw1BIVqCOYnjYe9Unc6ptgvkEfYdiQvcO_1KQzW4uvovh3JEu8XqbmR19nzNlVrHiYglt9K62G2s795KiyazyWlBoC1_grhH6NnJAx68wOynTSnIKy1rldeVUU02HHITZ1DX9h_vJ8Plg63rekcVwWcgHY58byYI68EOld4wkjRoiWlHD3gg6UfrPHgNOysB8o-hDVmxmrIXNPZXB8kFIOC9Kux7VraQRX09mYM.N6-l67QX1AqEeiDF5UbBgo-EjN7soPR0u0N3eR007MA&dib_tag=se&keywords=m1+air&qid=1729244713&sprefix=m1+ai%2Caps%2C228&sr=8-1",
+          "price": "1111",
+          "image": "images/apple-iphone-14/amazon.jpeg"
+        }
+      ],
+      "lowest_price_site": "Flipkart"
+    }
+  ]
+}
